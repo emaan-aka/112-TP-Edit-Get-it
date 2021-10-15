@@ -38,3 +38,5 @@ There are various keyPressed events that can be used to access most of the editi
 - n= create new layer
 - t= switch current layers
 
+Disclaimer
+I've grown much as a programmer since I completed this project, so there are (definitely) bugs and badly-organized functions in my code. I intend to come back and clean it up and implement new features when I can.
